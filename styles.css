@@ -43,6 +43,16 @@ h3 {
 
 .card {
     margin-bottom: 10px;
+    background: #2b2b2b;
+    border-color: #a7a7a7;
+}
+
+.card-header {
+    border-color: #a7a7a7;
+}
+
+.card h5 {
+    color: #d8d8d8;
 }
 
 h5 a {
